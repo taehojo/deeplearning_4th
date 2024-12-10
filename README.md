@@ -31,17 +31,21 @@
 
 **16장 이미지 인식의 꽃, 컨볼루션 신경망(CNN)** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch16-colab.ipynb)] 
 
-**17장 딥러닝을 이용한 자연어 처리** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch17-colab.ipynb)] 
+**17장 세상에 없는 얼굴 GAN, 오토인코더** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch17-colab.ipynb)]
 
-**18장 시퀀스 배열로 다루는 순환 신경망(RNN)** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch18-colab.ipynb)]
+**18장 전이 학습을 통해 딥러닝의 성능 극대화하기** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch18-colab.ipynb)] 
 
-**19장 세상에 없는 얼굴 GAN, 오토인코더** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch19-colab.ipynb)]
+**19장 설명 가능한 딥러닝 모델 만들기** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch19-colab.ipynb)] 
 
-**20장 전이 학습을 통해 딥러닝의 성능 극대화하기** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch20-colab.ipynb)] 
+**20장 캐글로 시작하는 새로운 도전** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch20-colab.ipynb)] 
 
-**21장 설명 가능한 딥러닝 모델 만들기** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch21-colab.ipynb)] 
+**21장 딥러닝을 이용한 자연어 처리** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch21-colab.ipynb)] 
 
-**22장 캐글로 시작하는 새로운 도전** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch22-colab.ipynb)] 
+**22장 시퀀스 배열로 다루는 순환 신경망(RNN)** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch22-colab.ipynb)]
+
+**23장 어텐션, AI가 문맥을 파악하는 원리** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch23-colab.ipynb)] 
+
+**24장 트랜스포머 직접 만들어 보기** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch24-colab.ipynb)]
 
 ------
 
