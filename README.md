@@ -41,7 +41,7 @@
 
 **21장 딥러닝을 이용한 자연어 처리** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch21-colab.ipynb)] 
 
-**22장 시퀀스 배열로 다루는 순환 신경망(RNN)** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch22-colab.ipynb)]
+**22장 시퀀스 배열로 다루는 순환 신경망** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch22-colab.ipynb)]
 
 **23장 어텐션, AI가 문맥을 파악하는 원리** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning_4th/blob/master/colab/ch23-colab.ipynb)] 
 
