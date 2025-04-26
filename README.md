@@ -1,7 +1,7 @@
 ## 모두의 딥러닝 개정 4판 소스코드
 
-+  [Youtube](https://www.youtube.com/@taehojo)
-+  [정오표]() 
++  [Youtube](https://www.youtube.com/@taehojo) 현재 4판 강의는 준비중입니다. 5월 초 오픈 예정
++  [정오표]() 4판 오타/수정사항은 아직 없습니다.
 
 ------
 
